@@ -2,5 +2,5 @@
 
 function returnFirstTwoDrivers(array){
   
-  const
+
 }
