@@ -5,5 +5,5 @@ const returnFirstTwoDrivers = (array) => {
 }
 
 const returnLastTwoDrivers = (array) => {
-  r
+  return array.slice(-2)
 }
