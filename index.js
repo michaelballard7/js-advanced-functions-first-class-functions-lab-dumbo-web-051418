@@ -7,3 +7,7 @@ const returnFirstTwoDrivers = (array) => {
 const returnLastTwoDrivers = (array) => {
   return array.slice(-2)
 }
+
+const selectingDriver = [
+    (return)
+  ]
