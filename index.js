@@ -2,5 +2,5 @@
 
 const returnFirstTwoDrivers = (array){
   
- return 
+ return array.slice(0..2)
 }
